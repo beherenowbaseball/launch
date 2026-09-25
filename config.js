@@ -1,5 +1,5 @@
 window.BTB_CONFIG = {
-  cohort: "Founding Cohort",
+  cohort: "Founding Group",
   price: 497,
   totalSpots: 10,
   freeSpots: 3,
